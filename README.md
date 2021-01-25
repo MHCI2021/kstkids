@@ -12,8 +12,9 @@ $$
   %param=Timeline: 3 months / ( October - December)
   %param=Team: Gabriella Suazo / Phoebe / Mira Mookerjee
 
-^^
-## Context
+^^BLOCK SplitSectionTitleBody>>
+%param=title:Context
+%param=content:
 Kelly Strayhorn theater is a small contemporary theater in the East Liberty Neightborhood of Pittsburgh. Thier mission is to bring diverse communities together through creative expression. They’ve asked for our help to come up with solutions that address the following 3 areas:
  
 ##### - How Might We increase participation and donations to the Kelly Strayhorn Theater?
