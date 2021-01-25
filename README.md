@@ -5,6 +5,7 @@ $$
 ![Test](https://raw.githubusercontent.com/MHCI2021/kstkids/main/images/kst_final.png)
 
 ^^BLOCK Overview>>
+
   %param=Client: Kelly Strayhorn Theater
   %param=Role: Project Manager / Research Lead
   %param=Timeline: 3 months / ( October - December)
