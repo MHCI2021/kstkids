@@ -1,23 +1,8 @@
----
-date: '3'
-title: 'KST Kids'
-cover: './images/kst-kids.png'
-github: ''
-external: ''
-tech:
- - React
- - Node.js
-showInProjects: true
-draft: false
-slug: '/projects/kstkids'
-tags:
-  - WordPress
----
 
 A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
 
 $$
-![Test](./images/kst-kids.png)
+![Test](https://raw.githubusercontent.com/MHCI2021/better-world/main/images/kst_background.png)
 
 ^^BLOCK Overview>>
   %param=Client: Kelly Strayhorn Theater
