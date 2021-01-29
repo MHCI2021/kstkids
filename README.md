@@ -87,7 +87,13 @@ By having the particpants recount these early experiences. we gained a much deep
 
 After completing the interview, we ran an interpretation session, where we wrote all our insights on notes in Miro. We then grouped these inights by theme to create an affinity diagram.
 
+^^BLOCK OverflowImage>>
+  %param=image:![Test](https://raw.githubusercontent.com/MHCI2021/kstkids/main/images/affinity_diagram.png)
+  %param=caption:lalala
+  %param=height:300px;
+
 ^^
+
 ### Key Insights
 
 **How are artists introduced to to performing arts?**
