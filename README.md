@@ -2,16 +2,19 @@
 A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
 
 $$
-![Test](https://raw.githubusercontent.com/MHCI2021/better-world/main/images/kst_background.png)
+
+![Test](https://raw.githubusercontent.com/MHCI2021/kstkids/main/images/kst_final.png)
 
 ^^BLOCK Overview>>
+
   %param=Client: Kelly Strayhorn Theater
   %param=Role: Project Manager / Research Lead
   %param=Timeline: 3 months / ( October - December)
   %param=Team: Gabriella Suazo / Phoebe / Mira Mookerjee
 
-^^
-## Context
+^^BLOCK SplitSectionTitleBody>>
+%param=title:Context
+%param=content:
 Kelly Strayhorn theater is a small contemporary theater in the East Liberty Neightborhood of Pittsburgh. Thier mission is to bring diverse communities together through creative expression. They’ve asked for our help to come up with solutions that address the following 3 areas:
  
 ##### - How Might We increase participation and donations to the Kelly Strayhorn Theater?
@@ -38,7 +41,7 @@ Kelly Strayhorn Theater wants to be a integral part of the East Liberty communit
 ^^BLOCK SplitImage>>
   %param=content: 
   Before we could come up with solutions, we needed to understand KST’s history, their role in the community, and their current approach towards addressing these questions. We also looked more broadly to see how other live entertainment venues are adapting to Covid19.
-  %param=image:kst_background
+  %param=image:![Test](https://raw.githubusercontent.com/MHCI2021/kstkids/main/images/kst_background.png)
   %param=caption: Our background research involved better understanding our client’s identity and role in the community and looking at new ways of reaching people during the pandemic.
 
 
@@ -59,7 +62,7 @@ Kelly Strayhorn Theater wants to be a integral part of the East Liberty communit
  In order to better understand what students look for in a performing arts program, we conducted a round of **Think-Aloud testing** with a number of 14-17 year olds involved in theater or dance over zoom.
 
 Our goal with this research was to figure out what they were looking for when deciding if a program was the right fit and where they expected that information to be.
-  %param=image:kst_wingspace
+  %param=image:![Test](https://raw.githubusercontent.com/MHCI2021/kstkids/main/images/kst_wingspace.png)
   %param=caption: We used the website of Wingspace Theatrical Design for our **Think-Aloud** because their mentorship program fit within the problem space we were focused on.
 
 ^^
@@ -135,7 +138,7 @@ After incroporating the feedback into our final design, we prepared a poster and
 
 
 ^^BLOCK Image>>
- %param=image:kst_poster
+ %param=image:![Test](https://raw.githubusercontent.com/MHCI2021/kstkids/main/images/kst_webpage.png)
  %param=height:300px
  
 
